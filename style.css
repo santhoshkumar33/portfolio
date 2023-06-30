@@ -1,0 +1,27 @@
+*{
+    background-color: black;
+    color:rgb(238, 221, 221) ;
+}
+h1{
+    color: rgb(118, 226, 240);
+}
+h2{
+    color: rgb(209, 142, 142);
+}
+.button{
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+    margin: 4px 2px;
+    cursor: pointer;
+   border-radius: 0.6em;
+}
+.button1{
+    border: 2px solid #d60d2f;
+    color: white; 
+}
+.button1:hover{
+    background-color: rgba(46, 112, 40, 0.699);
+}
